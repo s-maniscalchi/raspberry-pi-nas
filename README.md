@@ -91,7 +91,7 @@ sudo smbpasswd -a USERNAME
 Edit the Samba configuration:
 
 ```bash
-sudo nano /etc/samba/smb.conf
+sudo vi /etc/samba/smb.conf
 ```
 
 Add:
